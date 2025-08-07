@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "YuYuanPQ's Blog",
     // 站点描述
-    description: "Hello World",
+    description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://blog.chickoi.com",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "YuYuanPQ",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "@",
+      link: "https://blog.chickoi.com",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "粤ICP备2023095587号",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-08-01",
   // 每页文章数据
   postSize: 8,
   // inject
