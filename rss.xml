@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>YuYuanPQ's Blog</title>
+        <link>https://blog.chickoi.com</link>
+        <description>基于 vitepress-theme-curve 搭建的 github pages 站点</description>
+        <lastBuildDate>Sun, 16 Nov 2025 14:22:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>YuYuanPQ</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present YuYuanPQ</copyright>
+        <item>
+            <title><![CDATA[【题解】Luogu P6441 [COCI 2011 2012]]></title>
+            <link>https://blog.chickoi.com/posts/2025-09/2025091301</link>
+            <guid>https://blog.chickoi.com/posts/2025-09/2025091301</guid>
+            <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
+            <author>@ (YuYuanPQ)</author>
+        </item>
+        <item>
+            <title><![CDATA[【题解】Luogu P1462 通往奥格瑞玛的道路]]></title>
+            <link>https://blog.chickoi.com/posts/2025-09/2025090901</link>
+            <guid>https://blog.chickoi.com/posts/2025-09/2025090901</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <author>@ (YuYuanPQ)</author>
+        </item>
+    </channel>
+</rss>
